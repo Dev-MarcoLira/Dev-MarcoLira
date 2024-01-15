@@ -1,7 +1,5 @@
 <h2> Marco Lira - Full Stack Programmer </h2>
-
 <p>-👨‍💻 FreeLance Programmer</p>
-<p>-📫 Contact me on discord: lonelyssh</p>
 
 Main Skills:
 <div>
