@@ -1,5 +1,5 @@
 <h2> Marco Lira - Full Stack Programmer </h2>
-<p>-👨‍💻 FreeLance Programmer</p>
+<p>-👨‍💻 Computer Science Student</p>
 
 Main Skills:
 <div>
