@@ -1,4 +1,4 @@
-<h2> Marco Lira - Full Stack Programmer </h2>
+<h2> Marco Antonio Lira Barros - Full Stack Programmer </h2>
 <p>-👨‍💻 Computer Science Student</p>
 
 
