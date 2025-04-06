@@ -2,4 +2,4 @@
 <p>-👨‍💻 Computer Science Student</p>
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dev-MarcoLira&theme=dracula&show_icons=true)](https://github.com/Dev-MarcoLira)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Dev-MarcoLira&hide=javascript,html,css&theme=dracula&show_icons=true)](https://github.com/Dev-MarcoLira)
